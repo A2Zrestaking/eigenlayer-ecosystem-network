@@ -15,7 +15,8 @@ Projects are encouraged to update the repository with their information, includi
 
 | Project Name      | Description                                           | Contact Info                  | Wallet Address    |
 |-------------------|-------------------------------------------------------|-------------------------------|-------------------|
-| Eigen Foundation  | Supporting the Eigen Layer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| Eigen Foundation  | Supporting the EigenLayer protocol and community, building the shared security commons | team@eigenfoundation.org      | 0x211a3f0fD4ba37B3A5e36c72542dfA9b5FCBe2B1                  |
+| Eigen Labs  | Core contributors to EigenLayer, EigenDA, and the EigenLayer ecosystem | notices@eigenlabs.org      | 0xAbC23be4D9876551Fa8FE188C196B2A1b40f9548                  |
 
 **To update this table, please follow these steps:**
 
